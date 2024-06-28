@@ -1,3 +1,3 @@
 #  浙江省高校重大人文社会科学攻关计划项目 (2018GN07) 的部分成果
 - Funding:This work was supported by the Important Humanities and Social Science Research Project of Zhejiang Higher Education [grant number 2018QN071].
-- 语料库 标注过程可参见 annoation.py 文件
+- 语料库 标注过程可参见 annoation.ipynb 文件
